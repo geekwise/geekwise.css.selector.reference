@@ -62,5 +62,5 @@ MARKUP	        | Description
 `:root` |	Selects the document's root element
 `::selection` |	Selects the portion of an element that is selected.
 `:target` |	Selects the current active #about element (clicked on a URL containing that anchor name) `<a href="#about">about</a> <div id="about">The About Section</div>`
-``:valid` |	Selects all input elements with a valid value
+`:valid` |	Selects all input elements with a valid value
 `:visited` |	Selects all visited links
